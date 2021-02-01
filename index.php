@@ -1,2 +1,2 @@
 <?php
-echo 'Work';
+echo 'Work';//все рабоатет
