@@ -1,0 +1,17 @@
+{
+    "name": "daniil/phpblog",
+    "description": "Blog on PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Daniil",
+            "email": "daniilfgs@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3",
+        "twig/twig": "^3.0"
+    }
+}
