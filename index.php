@@ -1,5 +1,6 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Factory\AppFactory;
@@ -29,3 +30,6 @@ $app->run();
 =======
 echo 'Work';//все рабоатет
 >>>>>>> b72d4bc... Work
+=======
+echo 'Work';//все рабоатет
+>>>>>>> origin/main
