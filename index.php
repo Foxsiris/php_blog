@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Factory\AppFactory;
@@ -25,3 +26,6 @@ $app->get('/about', function (Request $request, Response $response, $args) use($
 });
 
 $app->run();
+=======
+echo 'Work';//все рабоатет
+>>>>>>> b72d4bc... Work
